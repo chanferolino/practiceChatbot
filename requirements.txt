@@ -30,7 +30,7 @@ oauthlib==2.0.1
 olefile==0.44
 packaging==16.8
 pew==1.1.0
-Pillow==4.0.0
+Pillow==9.0.0
 pipenv==8.2.7
 psutil==5.3.1
 psycopg2==2.7.1
